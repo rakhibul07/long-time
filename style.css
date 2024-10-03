@@ -1,0 +1,29 @@
+/* h4{
+    color: chartreuse;
+}
+body{
+    background-color: #FFD09B;
+}
+button{
+    background-color: rgb(255,0,255);
+    color:#00ff00
+} */
+
+body{
+    background-color: #FFF7D1;
+}
+h1{
+    color: #FFB0B0;
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    color: #FFD09B;
+    font-size: 50px;
+}
+#box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+}
